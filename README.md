@@ -1,1 +1,2 @@
-# plotly_belly_button
+# Belly Button Dashboard
+This deliverable was completed as a resource for volunteers to look at the data for their belly button bacteria.  Three interactive graphs were created with a drop down that loads the graphs based on the volunteer's id.
